@@ -14,7 +14,9 @@ bcr/tcr_yaqun.py: includes data input, data cleaning, cell clustering, cell anno
 bcr/tcr_kmer_analysis.py: extract patient sample information and cut and integrate cdr3aa sequences according to different lengths.
 
 bcr/tcr_cluster1_classification_methods.py: reduce the dimensionality of specific cell subpopulations before classification, compare the performance of different classification algorithms, and evaluate them.
-
+bcr_metabolism.py：alculate pathway scores for cell subpopulations in B cells.
+bcr_protein.R: calculate the intercellular surface protein score of cell subpopulations in B cells.
+In addition, we also provided some intermediate process data to verify the completeness of our analysis.
 
 ###contact
 Feel free to submit an issue or contact us at 2264311577@qq.com for problems about the tool.
