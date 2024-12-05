@@ -1,11 +1,12 @@
 #KDDC
+
 KDDC：a new framework that integrates K-mers, Dataset filtering, Dimension reduction and Classification algorithms to achieve immune cell heterogeneity classification
 
 ###Data source
 
-step1:immune repertoire data is obtained from GSE158055 of GEO Database.
+step1: immune repertoire data is obtained from GSE158055 of GEO Database.
 
-step2:single cell RNA sequencing data is sourced from the website http://covid19.cancer-pku.cn/#/dimensional-reduction, which can provide a complete h5 file of COVID19.
+step2: single cell RNA sequencing data is sourced from the website http://covid19.cancer-pku.cn/#/dimensional-reduction, which can provide a complete h5 file of COVID19.
 
 ###Description
 
